@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mager/slack-genius.git"
+    "url": "git+https://github.com/ebalakumar/slack-genius.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mager/slack-genius/issues"
+    "url": "https://github.com/ebalakumar/slack-genius/issues"
   },
-  "homepage": "https://github.com/mager/slack-genius#readme"
+  "homepage": "https://github.com/ebalakumar/slack-genius#readme"
 }
